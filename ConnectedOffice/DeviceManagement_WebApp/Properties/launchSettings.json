@@ -4,7 +4,9 @@
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "VaultUri": "https://devicemanagementwebapp.vault.azure.net/",
+        "AZURE_USERNAME": "34305823@student365.msfed.nwu.ac.za"
       },
       "applicationUrl": "https://localhost:59908;http://localhost:59909"
     }
